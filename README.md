@@ -85,6 +85,7 @@ The ALU correctly performs all operations based on opcode selection and produces
 ## 👨‍💻 Author
 Name: AAYUSH JHANWAR   
 Branch: ELECTRONICS AND COMMUNICATION 
+
 College: NIMS
 ---
 
