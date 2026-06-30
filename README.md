@@ -1,16 +1,16 @@
 # 8-bit Arithmetic Logic Unit (ALU) Design using Verilog HDL
 
-## 📌 Project Title
+##  Project Title
 Design and Implementation of an 8-bit ALU using Verilog HDL and Xilinx Vivado
 
 ---
 
-## 🧾 Abstract
+## Abstract
 This project presents the design and simulation of an 8-bit Arithmetic Logic Unit (ALU) using Verilog Hardware Description Language (HDL). The ALU is a fundamental combinational circuit used in digital systems and processors to perform arithmetic and logical operations. The design is implemented and verified using Xilinx Vivado simulation tools.
 
 ---
 
-## 🎯 Objective
+##  Objective
 The objective of this project is to:
 - Design an efficient 8-bit ALU using Verilog HDL
 - Implement multiple arithmetic and logical operations
@@ -19,7 +19,7 @@ The objective of this project is to:
 
 ---
 
-## ⚙️ Functional Description
+##  Functional Description
 
 The ALU operates on two 8-bit inputs (A and B) and a 3-bit control signal (Opcode). Based on the opcode, the ALU performs the corresponding operation.
 
@@ -38,18 +38,18 @@ The ALU operates on two 8-bit inputs (A and B) and a 3-bit control signal (Opcod
 
 ---
 
-## 🧠 Design Methodology
+##  Design Methodology
 
 The ALU is designed using **behavioral modeling in Verilog HDL**. A `case` statement is used to select operations based on opcode. The design follows combinational logic principles and does not include clock dependency.
 
 ---
 
-## 🧪 Simulation Environment
+##  Simulation Environment
 - Xilinx Vivado Design Suite
 
 ---
 
-## 📁 Project Directory Structure
+##  Project Directory Structure
 8bit-alu-project/
 ├── src/ (Verilog RTL design files)
 ├── tb/ (Testbench files)
@@ -59,7 +59,7 @@ The ALU is designed using **behavioral modeling in Verilog HDL**. A `case` state
 
 ---
 
-## ▶️ Implementation Flow
+##  Implementation Flow
 1. Create Vivado RTL project  
 2. Add design source files in `src/`  
 3. Add testbench in `tb/`  
@@ -68,12 +68,12 @@ The ALU is designed using **behavioral modeling in Verilog HDL**. A `case` state
 
 ---
 
-## 📊 Expected Result
+##  Expected Result
 The ALU correctly performs all operations based on opcode selection and produces valid simulation outputs in Vivado.
 
 ---
 
-## 📚 Key Learnings
+##  Key Learnings
 - Verilog HDL design methodology  
 - Combinational circuit design  
 - ALU architecture and operations  
@@ -82,11 +82,11 @@ The ALU correctly performs all operations based on opcode selection and produces
 
 ---
 
-## 👨‍💻 Author
+##  Author
 Name: AAYUSH JHANWAR   
 ---
 
-## 📌 Tools Used
+##  Tools Used
 - Xilinx Vivado  
 - Verilog HDL  
 - GitHub
